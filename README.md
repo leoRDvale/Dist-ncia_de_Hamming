@@ -9,8 +9,8 @@ compararmos duas cadeias de DNA e contarmos as diferenças entre elas, podemos v
 erros ocorreram. Isso é conhecido como "Distância de Hamming".
 Lemos o DNA usando as letras C,A,G e T. Duas fitas podem se parecer com isso:<br/>
 ```
-G A G C C T A C T A A C G G G A T<br/>
-C A T C G T A A T G A C G G C C T<br/>
-^   ^   ^     ^   ^         ^ ^           <br/>
+G A G C C T A C T A A C G G G A T
+C A T C G T A A T G A C G G C C T
+^   ^   ^     ^   ^         ^ ^           
 ```
 Eles têm 7 diferenças e, portanto, a distância de Hamming é 7.
